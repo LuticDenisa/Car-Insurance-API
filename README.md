@@ -37,3 +37,7 @@ flask run
 
 ## Testare automată
 pytest -q
+
+## Scheduler (job automat)
+La pornirea aplicației (flask run), APScheduler rulează un job la fiecare 10 minute.
+Jobul detectează polițele care expiră în ziua curentă.
