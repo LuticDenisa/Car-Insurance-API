@@ -1,0 +1,14 @@
+flask
+sqlalchemy
+pydantic
+pydantic-settings
+structlog
+python-dotenv
+apscheduler
+alembic
+psycopg2-binary
+flask-migrate
+pytest
+pytest-cov
+faker
+factory_boy
